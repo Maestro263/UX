@@ -21,3 +21,7 @@ $theme-colors: map-merge($theme-colors, $custom-colors);
 *{
 	background-color: blue;
 }
+
+nav{
+	color: blue;
+}
